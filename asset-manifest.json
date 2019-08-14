@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae64d75.chunk.css",
+    "main.js": "/static/js/main.638216d2.chunk.js",
+    "main.js.map": "/static/js/main.638216d2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.700723de.chunk.js": "/static/js/2.700723de.chunk.js",
+    "static/js/2.700723de.chunk.js.map": "/static/js/2.700723de.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e93feb38da5751cb70d6ea08931b27e3.js": "/precache-manifest.e93feb38da5751cb70d6ea08931b27e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fae64d75.chunk.css.map": "/static/css/main.fae64d75.chunk.css.map",
+    "static/media/clone-me.PNG": "/static/media/clone-me.23ddb528.PNG",
+    "static/media/clone-va.PNG": "/static/media/clone-va.911bf3c8.PNG",
+    "static/media/cryptoMarkets.PNG": "/static/media/cryptoMarkets.6b117a89.PNG",
+    "static/media/kitnetyExchange1.PNG": "/static/media/kitnetyExchange1.66288d75.PNG",
+    "static/media/me.jpg": "/static/media/me.e8c7fb25.jpg",
+    "static/media/socialDashboard.PNG": "/static/media/socialDashboard.8bfd55e0.PNG",
+    "static/media/yelpclone1.PNG": "/static/media/yelpclone1.da71c516.PNG"
+  }
+}
