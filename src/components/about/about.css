@@ -1,0 +1,48 @@
+.about_container {
+  background-color: lightcyan;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.about_item {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  justify-content: space-evenly;
+}
+
+.about_item > h1 {
+  font-size: 6rem;
+  margin-left: 2rem;
+}
+
+.about_item > p {
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+.about_item > h1 > span {
+  color: #bd5d38;
+}
+
+.link_to_site > a  {
+  font-size: 3rem;
+  margin-right: 10px;
+  margin-left: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .about_item {
+    height: 70vh;
+    justify-content: space-between;
+  }
+  
+  .about_item > h1 {
+    font-size: 2rem;
+  }
+  
+  .about_item > p {
+    font-size: 1rem;
+  }
+}

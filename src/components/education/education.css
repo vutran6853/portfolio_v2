@@ -1,0 +1,55 @@
+.education_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.education_container > h1 {
+  text-decoration: underline;
+}
+
+.education_container > .education_items {
+  display: flex;
+  flex-direction: column;
+  height: 20vh;
+  justify-content: space-evenly;
+}
+
+.education_container > .education_items > ol {
+  list-style: none;
+}
+
+.education_container > .education_items > .education_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.education_container > .education_items > .education_row > p {
+  color: #bd5d38;
+}
+
+.education_container > .education_items > .education_row > div > h3 {
+  color: lightslategray;
+}
+
+@media only screen and (max-width: 600px) {
+  .education_container {
+    height: 70vh;
+  }
+
+  .education_container > h1 {
+    font-size: 1.5rem;
+  }
+
+  .education_container > .education_items {
+    height: 40vh;
+  }
+
+  .education_container > .education_items > .education_row {
+    font-size: 1rem;
+  }
+}
