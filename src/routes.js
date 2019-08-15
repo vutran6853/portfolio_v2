@@ -9,6 +9,7 @@ import Education from './components/education/Education'
 
 const route = (
   <Switch>
+    <Route exact path="/" component={ About }></Route>
     <Route path="/about" component={ About }></Route>
     <Route path="/expreience" component={ Expreience }></Route>
     <Route path="/skills" component={ Skills }></Route>
