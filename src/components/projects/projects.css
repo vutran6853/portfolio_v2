@@ -45,7 +45,8 @@
 .projects_items > div > div > a > button {
   height: 3rem;
   width: 5rem;
-  border-style: none;
+  /* border-style: none; */
+  border-radius: 5px;
   cursor: pointer;
 }
 
@@ -72,6 +73,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.ui_container > div > div > a > button {
+  height: 3rem;
+  width: 5rem;
+  /* border-style: none; */
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ui_container > div > div > a > button:hover {
+  background-color: lightskyblue;
 }
 
 .ui_items > img {

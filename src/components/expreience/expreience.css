@@ -37,7 +37,8 @@
 
 @media only screen and (max-width: 600px) {
   .exprience_container {
-    height: 120vh;
+    /* height: 120vh; */
+    height: 100%;
   }
 
   .exprience_container > h1 {
@@ -45,10 +46,12 @@
   }
 
   .exprience_container > .exprience_items {
-    height: 40vh;
+    height: 45vh;
+    /* background-color: cadetblue; */
   }
 
   .exprience_container > .exprience_items > .exprience_row {
     font-size: 1rem;
   }
 }
+
