@@ -21,9 +21,9 @@ function Projects() {
           <p>Interactive, Responsive CryptoZone is the perfect place to learn about Crypto currencies and start to understand some of the fundamental concepts behind the blockchain.</p>
           <p><strong>TECH:</strong> React | Node | SCSS | POSTGREL | EXPRESS | BOOTSTRAP</p>
           <div>
-            <a href="http://68.183.64.32:3001/#/" rel="noopener noreferrer" target="_blank">
-              <button>LIVE</button>
-            </a>
+//             <a href="http://68.183.64.32:3001/#/" rel="noopener noreferrer" target="_blank">
+//               <button>LIVE</button>
+//             </a>
             <a href='https://github.com/vutran6853/Blockchain-News-Dashboardv2' rel="noopener noreferrer" target="_blank">
               <button>CODE</button>
             </a>
@@ -36,9 +36,9 @@ function Projects() {
           <p>This is a SocialMedia application that allows users to discover new friend, create new post, comment other people post.</p>
           <p><strong>TECH:</strong> React | Node | SCSS | POSTGREL | EXPRESS | BOOTSTRAP</p>
           <div>
-            <a href="http://104.248.213.225:3006/" rel="noopener noreferrer" target="_blank">
-              <button>LIVE</button>
-            </a>
+//             <a href="http://104.248.213.225:3006/" rel="noopener noreferrer" target="_blank">
+//               <button>LIVE</button>
+//             </a>
             <a href="https://github.com/vutran6853/socialchat" rel="noopener noreferrer" target="_blank">
               <button>CODE</button>
             </a>
@@ -63,9 +63,9 @@ function Projects() {
           <p>Best place to search your fav place for review & info.</p>
           <p><strong>TECH:</strong> React | Node | SCSS | REDUX | POSTGREL | EXPRESS | CSS</p>
           <div>
-            <a href="http://104.248.213.225:3003/#/" rel="noopener noreferrer" target="_blank">
-              <button>LIVE</button>
-            </a>
+//             <a href="http://104.248.213.225:3003/#/" rel="noopener noreferrer" target="_blank">
+//               <button>LIVE</button>
+//             </a>
             <a href="https://github.com/vutran6853/bestzap" rel="noopener noreferrer" target="_blank">
               <button>CODE</button>
             </a>
