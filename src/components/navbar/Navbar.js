@@ -10,7 +10,7 @@ function NavBar() {
       <img src={ MeImage } alt={ MeImage }></img>
       <div>
         <Link to="/about">About</Link>
-        <Link to="/expreience">Expreience</Link>
+        <Link to="/expreience">Experience</Link>
         <Link to="/projects">Projects</Link>
         <Link to="/skills">Skills</Link>
         <Link to="/education" >Education</Link>
