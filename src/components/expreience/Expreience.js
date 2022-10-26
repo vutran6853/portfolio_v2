@@ -8,10 +8,20 @@ function Expreience() {
       <div className="exprience_items">
         <div className="exprience_row">
          <div>
+          <h2>Software Engineer</h2>
+          <h3>Dun & Bradsteet (Austin)</h3>
+         </div>
+         <p>Dec 2021 - Oct 2022</p>
+        </div>
+      </div>
+      
+      <div className="exprience_items">
+        <div className="exprience_row">
+         <div>
           <h2>Software Engineer (React/Vue)</h2>
           <h3>Travis Central Appraisal District (Austin)</h3>
          </div>
-         <p>April 2019 - Present</p>
+         <p>April 2019 - Dec 2021</p>
         </div>
         <ol>
           <li>• I've built and actively maintain a full-stack JavaScript web application platform that serves up with SPA with React/Vue for front-end. Node.js + SQL for back-end.</li>
