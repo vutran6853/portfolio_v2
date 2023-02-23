@@ -11,7 +11,7 @@ function Expreience() {
           <h2>Software Engineer</h2>
           <h3>Dun & Bradsteet (Austin)</h3>
          </div>
-         <p>Dec 2021 - Oct 2022</p>
+         <p>Dec 2021 - Feb 2023</p>
         </div>
       </div>
       
